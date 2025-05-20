@@ -4,8 +4,11 @@ A simple website to determine one of Greenwood's most asked questions: **is it E
 
 ### Install, Run, and Build
 
-install dependencies with `npm i`
+Install dependencies:
+`npm i`
 
-run the dev server with `npm run dev`
+Run the dev server:
+`npm run dev`
 
-Build the site with `npm run build`
+Build the site:
+`npm run build`
